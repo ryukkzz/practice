@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(0, 0, 0);
+    width:1000px;
+  margin:auto;
+}
+.name{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-size:60px;
+    text-align: center;
+   color:rgb(0, 0, 0);
+  
+}
+.parts{
+    font-family:'Times New Roman', Times, serif;
+
+}
+.big{
+    background-color: rgb(79, 74, 74);
+    padding: 50px;
+    border: 2px;
+    border-color:rgb(245, 241, 241) ;
+    border-style:double;
+}
+.q{
+    font-style: italic;
+}
+p{
+    font-size: 20px;
+
+}
